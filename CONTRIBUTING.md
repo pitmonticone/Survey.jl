@@ -40,7 +40,7 @@ The steps needed to make a change to an existing docstring are listed below:
 The steps required to add a new docstring are listed below:
 * find a suitable object definition in `src/` that the docstring
   will be most applicable to;
-* add a doctring above the definition;
+* add a docstring above the definition;
 * find a suitable `@docs` code block in the `docs/src/lib/functions.md` file 
   where you would like the docstring to appear; (if the docstring is added
   to an object that is not exported add it to `docs/src/lib/internals.md`);

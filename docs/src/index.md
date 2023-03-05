@@ -32,7 +32,7 @@ We plan for efficient implementations of all the methods in R `survey`. Features
 - Frequency/contingency table analysis, association tests
 - Survival curves and analysis tools
 - Integration with [GLM.jl](https://github.com/JuliaStats/GLM.jl)
-- Support for [CategoricalsArrays](https://github.com/JuliaData/CategoricalArrays.jl)
+- Support for [CategoricalArrays](https://github.com/JuliaData/CategoricalArrays.jl)
 - Multivariate analysis, principal components  
 - Support for [imputing missing data](https://stat.ethz.ch/CRAN/web/packages/mitools/index.html)
 - Integration with [CRRao.jl](https://github.com/xKDR/CRRao.jl) 
